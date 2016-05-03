@@ -20,18 +20,18 @@
 
 * [Programs and their Evaluations](https://www.youtube.com/watch?v=zEjrY1ip3B4)
  * Intervention:
-  * Start with a problem.
-  * Verify that the problem actually exists.
-  * Generate a theory of why the problem exists.
-  * Design the program.
-  * Think about whether the solution is cost effective.
+   * Start with a problem.
+    * Verify that the problem actually exists.
+    * Generate a theory of why the problem exists.
+    * Design the program.
+    * Think about whether the solution is cost effective.
  
  * Program Evaluation:
-  * Start with a question.
-  * Verify that the question hasn't been answered.
-  * State a hypothesis.
-  * Design the evaluation.
-  * Determine whether the value of the answer is worth the cost of the evaluation.
+   * Start with a question.
+    * Verify that the question hasn't been answered.
+    * State a hypothesis.
+    * Design the evaluation.
+    * Determine whether the value of the answer is worth the cost of the evaluation.
 
 * [An Impact Evaluation, Start to Finish](https://www.youtube.com/watch?v=uULMYtxPWZk)
 
